@@ -20,7 +20,7 @@ spec:
   selector:
     matchLabels:
       app: toapp
-  replicas: 2 
+  replicas:  
   template:
     metadata:
       labels:
